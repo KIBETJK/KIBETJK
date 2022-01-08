@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python,Django and React Native.
 - 💞️ I’m looking to collaborate on React Native applications development as well as web python projects using the Django framework.
 - 📫 How to reach me.
-~>On Twitter:https://twitter.com/KorirJapheth_
+~>On Twitter:https://twitter.com/KorirJapheth_)
 ~>On Facebook:https://web.facebook.com/japhethjay 
 ~>On Github:https://github.com/KIBETJK
 
