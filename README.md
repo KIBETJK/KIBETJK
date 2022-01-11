@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KIBET JJAPHETH
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning Python,Django and React Native.
-- 💞️ I’m looking to collaborate on React Native applications development as well as web python projects using the Django framework.
+- 🌱 I’m currently learning Web Development using HTML, CSS,PHP and Javascript as well as their associated libraries and frameworks.
+- 💞️ I’m looking to collaborate on React Native applications development.
 - 📫 How to reach me.
 ~>On Twitter:https://twitter.com/KorirJapheth_)
 ~>On Facebook:https://web.facebook.com/japhethjay 
