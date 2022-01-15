@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KIBET JJAPHETH
+- 👋 Hi, I’m @KIBET JAPHETH
 - 👀 I’m interested in software development.
 - 🌱 I’m currently learning Web Development using HTML, CSS,PHP and Javascript as well as their associated libraries and frameworks.
 - 💞️ I’m looking to collaborate on React Native applications development.
